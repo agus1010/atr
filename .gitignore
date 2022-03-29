@@ -1,4 +1,5 @@
 .creds/
+creds/
 RESOURCES.md
 __pycache__/
 .vscode/
