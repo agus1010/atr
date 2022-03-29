@@ -1,3 +1,4 @@
 creds/
 RESOURCES.md
 __pycache__/
+creds/auth.json
