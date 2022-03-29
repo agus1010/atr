@@ -2,3 +2,5 @@
 RESOURCES.md
 __pycache__/
 .vscode/
+samples/
+test.py
